@@ -52,7 +52,7 @@ Used the "Reference" function to create new tables for "Age Groups", "Credit Sco
 
 ## Dashboard Design
 
-<> Churn rate was consistently highest for the age group 51-60 years and for customers with a credit score <= 400.
+
 
 ## Findings
 
