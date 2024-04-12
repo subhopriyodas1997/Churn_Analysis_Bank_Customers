@@ -46,8 +46,8 @@ Applied star schema to arrange the tables.
 
 ## Created measures
 
-- Utilized DAX to create columns for metrics such as the number of customers (count of customer IDs), count of churned customers, and churn rate.
 - Created custom columns for minimum, maximum, and target churn rates to be used in visualizations such as gauges.
+- Utilized DAX to create measures such as the number of customers (count of customer IDs), count of churned customers, and churn rate.
 - Developed visualizations including donuts, gauges, line charts, and line & clustered column charts.
 - Added a slicer for "Churn Status" to facilitate interactive analysis.
 
