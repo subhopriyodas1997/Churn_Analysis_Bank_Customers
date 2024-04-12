@@ -51,7 +51,7 @@ Used the "Reference" function to create new tables for "Age Groups", "Credit Sco
 - Added a slicer for "Churn Status" to facilitate interactive analysis.
 
 ## Dashboard Design
-
+![Screenshot 2024-04-12 192358](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/c7efc7d1-3eb7-4c51-88aa-c53a92bc851c)
 
 
 ## Findings
