@@ -49,6 +49,11 @@ Used the "Reference" function to create new tables for "Age Groups", "Credit Sco
 - Created custom columns for minimum, maximum, and target churn rates to be used in visualizations such as gauges.
 - Developed visualizations including donuts, gauges, line charts, and line & clustered column charts.
 - Added a slicer for "Churn Status" to facilitate interactive analysis.
+
+## Dashboard Design
+
+<> Churn rate was consistently highest for the age group 51-60 years and for customers with a credit score <= 400.
+
 ## Findings
 
 <> Churn rate was consistently highest for the age group 51-60 years and for customers with a credit score <= 400.
@@ -56,4 +61,3 @@ Used the "Reference" function to create new tables for "Age Groups", "Credit Sco
 <> Products 4 and 3 exhibited noticeably higher churn rates.
 
 <> Germany had a noticeably higher churn rate for the account balance group 100k - 200k.
-![Screenshot 2024-04-12 192358](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/a9c77a3d-a3be-4821-98e3-de5a2e106b22)
