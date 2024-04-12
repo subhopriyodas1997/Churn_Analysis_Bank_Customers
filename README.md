@@ -11,8 +11,8 @@
 
 ## Links
 
- - [Data taken from Kaggle](https://www.kaggle.com/datasets)
  - [Live dashboard](https://github.com/matiassingers/awesome-readme)
+ - [Data taken from Kaggle](https://www.kaggle.com/datasets)
 
 ## Problem Statement
 
