@@ -38,9 +38,11 @@ The task revolved around churn analysis for bank customers. The data collected n
 - Arranged "Credit Card Status", "Activity Status", and "Churn Status" columns.
 - Categorically arranged individual ages using age groups.
 - Similarly arranged the "Credit Score" and "Balance" columns and changed their data type from integer to string.
+- Used the "Reference" function to create new tables for "Age Groups", "Credit Score", and "Account Balance" in ascending order with unique values.
+
 ## Data Modelling
 
-Used the "Reference" function to create new tables for "Age Groups", "Credit Score", and "Account Balance" in ascending order with unique values. Applied star schema to arrange the tables.
+Applied star schema to arrange the tables.
 ![Screenshot 2024-04-12 205451](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/6cb27810-70cb-4eeb-8e73-15d28225458d)
 
 ## Created measures
