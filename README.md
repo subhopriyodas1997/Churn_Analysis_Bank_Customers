@@ -38,7 +38,7 @@ The task revolved around churn analysis for bank customers. The data collected n
 - Arranged "Credit Card Status", "Activity Status", and "Churn Status" columns.
 - Categorically arranged individual ages using age groups.
 - Similarly arranged the "Credit Score" and "Balance" columns and changed their data type from integer to string.
-- Used the "Reference" function to create new tables for "Age Groups", "Credit Score", and "Account Balance" in ascending order with unique values.
+- Used the "Reference" function to create new tables for "Age Groups", "Credit Score", and "Account Balance" and arranged the values in ascending order with unique values.
 
 ## Data Modelling
 
