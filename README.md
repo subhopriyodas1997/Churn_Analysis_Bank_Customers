@@ -1,8 +1,6 @@
 
 # Churn Analysis 
 
-Data Source: kaggle.com
-
 <> Conducted a churn analysis using a dataset from Kaggle for a random bank, with the goal of uncovering insights to inform strategic decision-making. 
 
 <> I diligently cleaned and transformed the data using Power Query Editor, ensuring its readiness for analysis and reporting. 
@@ -11,6 +9,10 @@ Data Source: kaggle.com
 
 <> By leveraging these insights, I aimed to optimize our customer retention strategies and drive business growth.
 
+## Links
+
+ - [Data taken from Kaggle](https://www.kaggle.com/datasets)
+ - [Live dashboard](https://github.com/matiassingers/awesome-readme)
 
 ## Problem Statement
 
