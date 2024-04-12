@@ -1,4 +1,3 @@
-
 # Churn Analysis 
 
 <> Conducted a churn analysis using a dataset from Kaggle for a random bank, with the goal of uncovering insights to inform strategic decision-making. 
