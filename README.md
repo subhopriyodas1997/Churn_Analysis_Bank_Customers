@@ -39,7 +39,6 @@ The task revolved around churn analysis for bank customers. The data collected n
 ## Data Modelling
 
 Used the "Reference" function to create new tables for "Age Groups", "Credit Score", and "Account Balance" in ascending order with unique values. Applied star schema to arrange the tables.
-![Screenshot 2024-04-12 192358](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/a9c77a3d-a3be-4821-98e3-de5a2e106b22)
 ![Screenshot 2024-04-12 205451](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/6cb27810-70cb-4eeb-8e73-15d28225458d)
 
 ## Created measures
@@ -55,3 +54,4 @@ Used the "Reference" function to create new tables for "Age Groups", "Credit Sco
 <> Products 4 and 3 exhibited noticeably higher churn rates.
 
 <> Germany had a noticeably higher churn rate for the account balance group 100k - 200k.
+![Screenshot 2024-04-12 192358](https://github.com/subhopriyodas1997/Churn_Analysis_PowerBI/assets/120428930/a9c77a3d-a3be-4821-98e3-de5a2e106b22)
